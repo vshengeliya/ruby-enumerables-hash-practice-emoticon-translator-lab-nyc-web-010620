@@ -9,6 +9,7 @@ end
 def get_japanese_emoticon
   new_hash = {
     'get_meaning' = {}
+    'get_emoticon' = {}
     
   }
 end
