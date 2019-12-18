@@ -10,8 +10,9 @@ def get_japanese_emoticon
   new_hash = {
     'get_meaning' = {}
     'get_emoticon' = {}
-    
   }
+  emoticons.each do 
+    
 end
 
 def get_english_meaning
