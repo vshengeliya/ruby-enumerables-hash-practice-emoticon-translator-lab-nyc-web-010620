@@ -11,7 +11,8 @@ def get_japanese_emoticon
     'get_meaning' = {}
     'get_emoticon' = {}
   }
-  emoticons.each do 
+  emoticons.each do |key, value|
+    
     
 end
 
